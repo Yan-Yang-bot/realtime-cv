@@ -1,0 +1,32 @@
+name: Build LaTeX PDF
+
+on:
+  push:
+    paths:
+      - '**.tex'
+      - '**.bib'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install LaTeX
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y texlive-full
+
+    - name: Compile LaTeX to PDF
+      run: |
+        latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+
+    - name: Upload PDF artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: paper-pdf
+        path: main.pdf
+
