@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.5.2)  2 MAY 2025 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.5.29)  29 MAY 2025 08:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,24 +813,24 @@ LaTeX Warning: Unused global option(s):
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 231.
-LaTeX Font Info:    ... okay on input line 231.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
@@ -861,14 +861,14 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(215.10318pt, 370.452pt, 11.9527pt)
+* h-part:(L,W,R)=(197.17867pt, 388.37651pt, 11.9527pt)
 * v-part:(T,H,B)=(16.90454pt, 811.23776pt, 16.90454pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=370.452pt
+* \textwidth=388.37651pt
 * \textheight=811.23776pt
-* \oddsidemargin=142.83319pt
-* \evensidemargin=142.83319pt
+* \oddsidemargin=124.90868pt
+* \evensidemargin=124.90868pt
 * \topmargin=-55.36545pt
 * \headheight=0.0pt
 * \headsep=0.0pt
@@ -889,24 +889,24 @@ e
 
 \c@mv@tabular=\count313
 \c@mv@boldtabular=\count314
-Package hyperref Info: Link coloring OFF on input line 231.
+Package hyperref Info: Link coloring OFF on input line 224.
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 231.
-Package microtype Info: Applying patch `item' on input line 231.
-Package microtype Info: Applying patch `toc' on input line 231.
-Package microtype Info: Applying patch `eqnum' on input line 231.
-Package microtype Info: Applying patch `footnote' on input line 231.
-Package microtype Info: Applying patch `verbatim' on input line 231.
+LaTeX Info: Redefining \microtypecontext on input line 224.
+Package microtype Info: Applying patch `item' on input line 224.
+Package microtype Info: Applying patch `toc' on input line 224.
+Package microtype Info: Applying patch `eqnum' on input line 224.
+Package microtype Info: Applying patch `footnote' on input line 224.
+Package microtype Info: Applying patch `verbatim' on input line 224.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 231.
+LaTeX Info: Redefining \showhyphens on input line 224.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -917,15 +917,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not availab
 le
 (Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on i
-nput line 249.
+nput line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 249.
+(Font)              scaled to size 10.0pt on input line 242.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 249
+LaTeX Font Info:    Trying to load font information for U+msa on input line 242
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -934,7 +934,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 249
+LaTeX Font Info:    Trying to load font information for U+msb on input line 242
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -946,23 +946,23 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <24.88> not avail
 able
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 249.
+put line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 249.
+(Font)              scaled to size 24.88pt on input line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <17.28> not avail
 able
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 249.
+put line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 249.
+(Font)              scaled to size 17.28pt on input line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not availabl
 e
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 249.
+put line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 249.
+(Font)              scaled to size 12.0pt on input line 242.
 LaTeX Font Info:    Trying to load font information for T1+qag on input line 24
-9.
+2.
 
 (/usr/share/texmf/tex/latex/tex-gyre/t1qag.fd
 File: t1qag.fd 2009/09/25 v1.2 font definition file for T1/qag
@@ -971,71 +971,93 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qag' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (5.38576pt too wide) in paragraph at lines 249--249
-[]\T1/qag/m/n/12 Machine Learn-ing R&D En-gi-neer
- []
-
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 249.
+ut line 242.
+
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 249.
+ut line 242.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
+Overfull \hbox (6.67946pt too wide) in paragraph at lines 242--242
+[][] 
+ []
+
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not avail
 able
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 249.
+put line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 249.
+(Font)              scaled to size 20.74pt on input line 242.
+
+Overfull \hbox (3.27467pt too wide) in paragraph at lines 242--242
+[] []  \T1/ClearSans-TLF/regular/n/10 (-20) CS Top-ics in In-ter-dis-ci-plinary
+ Com-
+ []
+
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 249.
+put line 242.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 249.
+(Font)              scaled to size 7.0pt on input line 242.
+
+Overfull \hbox (3.17412pt too wide) in paragraph at lines 242--242
+[][] 
+ []
+
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <10> not availabl
 e
 (Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
- line 251.
+ line 244.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 251.
+(Font)              scaled to size 10.0pt on input line 244.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <17.28> not avail
 able
 (Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
- line 251.
+ line 244.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 251.
+(Font)              scaled to size 17.28pt on input line 244.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 258.
+put line 251.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 258.
+(Font)              scaled to size 8.0pt on input line 251.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <8> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
- line 258.
+ line 251.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 8.0pt on input line 258.
+(Font)              scaled to size 8.0pt on input line 251.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <9> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
- line 274.
+ line 267.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 9.0pt on input line 274.
+(Font)              scaled to size 9.0pt on input line 267.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <9> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 280.
+put line 273.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 280.
-
+(Font)              scaled to size 9.0pt on input line 273.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/it' in size <9> not availabl
+e
+(Font)              Font shape `T1/ClearSans-TLF/bold/it' tried instead on inpu
+t line 301.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/it' will be
+(Font)              scaled to size 9.0pt on input line 301.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <9> not availabl
+e
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on i
+nput line 301.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
+(Font)              scaled to size 9.0pt on input line 301.
 [1
 
 
@@ -1045,7 +1067,7 @@ m-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/u
 sr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/us
 r/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
 LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on in
-put line 310.
+put line 321.
 
 (/usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearS
@@ -1054,29 +1076,39 @@ ans-TLF.
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not availab
 le
 (Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on i
-nput line 310.
+nput line 321.
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 310.
+(Font)              scaled to size 10.0pt on input line 321.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ClearSans-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<in.png, id=64, 345.81532pt x 345.81532pt>
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <8> not availabl
+e
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on i
+nput line 347.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
+(Font)              scaled to size 8.0pt on input line 347.
+
+Overfull \hbox (6.31215pt too wide) in paragraph at lines 365--365
+[][] 
+ []
+
+<in.png, id=66, 345.81532pt x 345.81532pt>
 File: in.png Graphic file (type png)
 <use in.png>
-Package pdftex.def Info: in.png  used on input line 353.
-(pdftex.def)             Requested size: 35.84846pt x 35.84468pt.
-<pics/rg.png, id=66, 75.51477pt x 75.51477pt>
+Package pdftex.def Info: in.png  used on input line 365.
+(pdftex.def)             Requested size: 32.26361pt x 32.2618pt.
+<pics/rg.png, id=68, 75.51477pt x 75.51477pt>
 File: pics/rg.png Graphic file (type png)
 <use pics/rg.png>
-Package pdftex.def Info: pics/rg.png  used on input line 353.
-(pdftex.def)             Requested size: 35.84846pt x 35.84914pt.
-<github.png, id=68, 513.92pt x 513.92pt>
+Package pdftex.def Info: pics/rg.png  used on input line 365.
+(pdftex.def)             Requested size: 32.26361pt x 32.26445pt.
+<github.png, id=70, 513.92pt x 513.92pt>
 File: github.png Graphic file (type png)
 <use github.png>
-Package pdftex.def Info: github.png  used on input line 353.
-(pdftex.def)             Requested size: 35.84846pt x 35.84476pt.
-
+Package pdftex.def Info: github.png  used on input line 365.
+(pdftex.def)             Requested size: 32.26361pt x 32.26106pt.
 [2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc} <./i
 n.png> <./pics/rg.png> <./github.png>]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1122,26 +1154,27 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28293 strings out of 474222
- 533752 string characters out of 5748734
+ 28298 strings out of 474222
+ 534099 string characters out of 5748733
  1985975 words of memory out of 5000000
- 49728 multiletter control sequences out of 15000+600000
- 661830 words of font info for 263 fonts, out of 8000000 for 9000
+ 49737 multiletter control sequences out of 15000+600000
+ 679293 words of font info for 261 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  132i,16n,135p,1001b,1262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/shar
-e/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfti0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000
-.pfb>
-Output written on main.pdf (3 pages, 199229 bytes).
+></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-BoldItali
+c.pfb></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Ital
+ic.pfb></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Reg
+ular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwes
+ome.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
+/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texmf/fonts/type1
+/public/cm-super/sfti0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sft
+i1000.pfb>
+Output written on main.pdf (3 pages, 211502 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
- 66696 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 78984 words of extra memory for PDF output out of 89155 (max. 10000000)
 

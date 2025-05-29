@@ -381,6 +381,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.t
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-Bold-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-tlf-t1--base.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
@@ -397,6 +399,10 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-BoldItalic-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-Italic-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-tlf-t1--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-Italic-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-tlf-t1--base.tfm
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc
@@ -411,6 +417,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-ts1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
@@ -441,10 +448,13 @@ INPUT ./github.png
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-ts1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-ts1--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/intel/clearsans/ClearSans-Italic-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-tlf-t1--base.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-BoldItalic.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb

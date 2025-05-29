@@ -62,7 +62,7 @@
 \newlength\leftrightmargin%
 \newlength\sidebartextwidth
 % default values
-\setlength{\sidebarwidth}{0.34\paperwidth}
+\setlength{\sidebarwidth}{0.31\paperwidth}
 \setlength{\topbottommargin}{0.02\paperheight}
 \setlength{\leftrightmargin}{0.02\paperwidth}
 % user overwrites
@@ -283,7 +283,8 @@
 % | [indent] [icon]  description  \hfill  ● ● ● ○ ○ | 
 % -- inspired by arravc.cls by LianTze Lim: https://github.com/liantze/AltaCV
 \newcommand{\pointskill}[4][0em]{%
-	\hspace{#1} \cvicon{#2} ~ #3 \hfill%
+	\hspace{#1} %\cvicon{#2}
+    ~ #3 \hfill%
 	\foreach \x in {1,...,5}{%
 		\space%
 		{\ifnumgreater{\x}{#4}{\color{skillbg}}{\color{iconcolor}}% from etoolbox
@@ -529,8 +530,8 @@
 % or, if description is empty:
 % | <date>         <title>       \hfill  <location>  |
 \newcommand{\cvitem}[4]{%
-	\parbox[t]{0.17\textwidth}{\raggedright #1} &%
-	\parbox[t]{0.81\textwidth}{%
+	\parbox[t]{0.13\textwidth}{\raggedright #1} &%
+	\parbox[t]{0.86\textwidth}{%
 		\if\relax\detokenize{#4}\relax%
 			\parbox[t]{\linewidth-\widthof{#3}-1em}{\raggedright #2}%
   		\hfill {\footnotesize#3}%
@@ -541,3 +542,4 @@
 }
 
 % EOF - fortysecondscv.cls
+
