@@ -5,6 +5,7 @@ on:
     paths:
       - '**.tex'
       - '**.bib'
+      - '**.cls'
   workflow_dispatch:
 
 jobs:
@@ -15,14 +16,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install LaTeX
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y texlive-full
-
-    - name: Compile LaTeX to PDF
-      run: |
-        latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+    - name: Compile LaTeX
+      uses: xu-cheng/latex-action@v3
+      with:
+        root_file: main.tex
 
     - name: Deploy PDF to gh-pages
       uses: peaceiris/actions-gh-pages@v3
