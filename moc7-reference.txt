@@ -1,0 +1,25 @@
+References
+
+Adams, R. A., Shipp, S., & Friston, K. J. (2013). Predictions not commands: Active inference in the motor system. Brain Structure and Function, 218(3), 611–643. https://doi.org/10.1007/s00429-012-0475-5
+
+Apter, M. J. (Ed.). (2001). Motivational styles in everyday life: A guide to reversal theory. American Psychological Association. https://doi.org/10.1037/10427-000
+
+Apter, M. J. (2013). Developing reversal theory: Some suggestions for future research. Journal of Motivation, Emotion, and Personality, 1(1), 1–8. https://doi.org/10.12689/jmep.2013.101
+
+Barrett, L. F., & Simmons, W. K. (2015). Interoceptive predictions in the brain. Nature Reviews Neuroscience, 16(7), 419–429. https://doi.org/10.1038/nrn3950
+
+Luo, J., Yang, Y., Nayak, V., & Yang, G. H. (2024). Improving searcher struggle detection via the reversal theory. Discover Computing, 27, Article 51. https://doi.org/10.1007/s10791-024-09492-z
+
+O'Connell, K. A., & Calhoun, J. E. (2001). The Telic/Paratelic State Instrument (T/PSI): Validating a reversal theory measure. Personality and Individual Differences, 30(2), 193–204. https://doi.org/10.1016/S0191-8869(00)00026-X
+
+Ororbia, A., & Mali, A. (2023). The predictive forward-forward algorithm. Proceedings of the Annual Meeting of the Cognitive Science Society, 45. https://escholarship.org/uc/item/2bt596r3
+
+Reversal theory. (n.d.). In Wikipedia. Retrieved October 10, 2026, from https://en.wikipedia.org/wiki/Reversal_theory
+
+Smith, K. C. P., & Apter, M. J. (1975). A theory of psychological reversals. Picton Publishing.
+
+Yang, Y. (2026). Modeling limits in phenomenological contexts: A statement on Luo et al.'s "Improving searcher struggle detection via the reversal theory." Journal of Motivation, Emotion, and Personality, 14, 1–6. https://doi.org/10.12689/jmep.2026.1401
+
+Related work by the author (not cited in the poster text)
+
+Yang, Y. (2026). From satiation to allostasis: Toward a resource-based framework for reversal triggers in reversal theory [Preprint]. Zenodo. https://zenodo.org/records/19437171
